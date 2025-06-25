@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{A4321E91-BE80-4FAC-A5F5-61BA25A7F5E6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ServiceRequestManager PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceRequestManager/Program.cs">
+    <Files>
+      <File FileName="ServiceRequestManager/Data/ApplicationDbContext.cs" />
+      <File FileName="ServiceRequestManager/Models/ServiceRequest.cs" />
+      <File FileName="ServiceRequestManager/Models/User.cs" />
+      <File FileName="ServiceRequestManager/Models/LoginModel.cs" />
+      <File FileName="ServiceRequestManager/Controllers/AuthController.cs" />
+      <File FileName="ServiceRequestManager/Controllers/ServiceRequestsController.cs" Line="53" Column="21" />
+      <File FileName="ServiceRequestManager/appsettings.json" Line="10" Column="69" />
+      <File FileName="ServiceRequestManager/Program.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServiceRequestManager" expanded="True">
+            <Node name="ServiceRequestManager" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

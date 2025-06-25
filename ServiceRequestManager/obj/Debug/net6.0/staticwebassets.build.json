@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A2coHbSyrz0eLFtBzs8Y1MR4uT115aavXwmC78rBY1s=",
+  "Source": "ServiceRequestManager",
+  "BasePath": "_content/ServiceRequestManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
