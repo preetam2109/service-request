@@ -78,7 +78,8 @@ builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>
     {
-        builder.WithOrigins("http://localhost:4200") // Replace with your Angular app's URL in production
+        builder.WithOrigins("http://localhost:4200",
+             "https://685d212281b2e429db512d54--adorable-piroshki-4734de.netlify.app") // Replace with your Angular app's URL in production
                .AllowAnyHeader()
                .AllowAnyMethod();
     });
