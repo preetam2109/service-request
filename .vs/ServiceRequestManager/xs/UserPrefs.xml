@@ -1,39 +1,33 @@
-﻿<Properties StartupConfiguration="{A4321E91-BE80-4FAC-A5F5-61BA25A7F5E6}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ServiceRequestManager PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceRequestManager/Program.cs">
+﻿<Properties StartupConfiguration="{8AEF9C28-7C47-46ED-9536-5AA9C9C1DE88}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceRequestManager/Models/LoginModel.cs">
     <Files>
       <File FileName="ServiceRequestManager/Data/ApplicationDbContext.cs" />
       <File FileName="ServiceRequestManager/Models/ServiceRequest.cs" />
       <File FileName="ServiceRequestManager/Models/User.cs" />
-      <File FileName="ServiceRequestManager/Models/LoginModel.cs" />
+      <File FileName="ServiceRequestManager/Models/LoginModel.cs" Line="1" Column="1" />
       <File FileName="ServiceRequestManager/Controllers/AuthController.cs" />
-      <File FileName="ServiceRequestManager/Controllers/ServiceRequestsController.cs" Line="53" Column="21" />
-      <File FileName="ServiceRequestManager/appsettings.json" Line="10" Column="69" />
-      <File FileName="ServiceRequestManager/Program.cs" Line="2" Column="1" />
+      <File FileName="ServiceRequestManager/Controllers/ServiceRequestsController.cs" />
+      <File FileName="ServiceRequestManager/appsettings.json" Line="10" Column="1" />
+      <File FileName="ServiceRequestManager/Program.cs" Line="132" Column="1" />
+      <File FileName="ServiceRequestManager/appsettings.Development.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ServiceRequestManager" expanded="True">
-            <Node name="ServiceRequestManager" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Controllers" expanded="True" />
+          <Node name="ServiceRequestManager">
+            <Node name="ServiceRequestManager">
+              <Node name="Dependencies" expanded="True" />
               <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ServiceRequestManager PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  servicerequestmanager:
+    image: ${DOCKER_REGISTRY-}servicerequestmanager
+    build:
+      context: .
+      dockerfile: ServiceRequestManager/Dockerfile
